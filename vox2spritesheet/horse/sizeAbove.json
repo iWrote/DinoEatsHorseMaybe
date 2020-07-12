@@ -1,0 +1,418 @@
+{
+	"sizeAbove/horse_Above_E_00": {
+		"frame": {
+			"x": 38,
+			"y": 98,
+			"width": 50,
+			"height": 30
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/horse_Above_E_01": {
+		"frame": {
+			"x": 38,
+			"y": 172,
+			"width": 50,
+			"height": 27
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/horse_Above_E_02": {
+		"frame": {
+			"x": 114,
+			"y": 0,
+			"width": 50,
+			"height": 29
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/horse_Above_E_03": {
+		"frame": {
+			"x": 114,
+			"y": 31,
+			"width": 50,
+			"height": 29
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/horse_Above_NE_00": {
+		"frame": {
+			"x": 76,
+			"y": 49,
+			"width": 36,
+			"height": 46
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/horse_Above_NE_01": {
+		"frame": {
+			"x": 38,
+			"y": 0,
+			"width": 36,
+			"height": 47
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/horse_Above_NE_02": {
+		"frame": {
+			"x": 0,
+			"y": 101,
+			"width": 36,
+			"height": 43
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/horse_Above_NE_03": {
+		"frame": {
+			"x": 76,
+			"y": 130,
+			"width": 36,
+			"height": 39
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/horse_Above_NW_00": {
+		"frame": {
+			"x": 0,
+			"y": 52,
+			"width": 36,
+			"height": 47
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/horse_Above_NW_01": {
+		"frame": {
+			"x": 38,
+			"y": 49,
+			"width": 36,
+			"height": 47
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/horse_Above_NW_02": {
+		"frame": {
+			"x": 38,
+			"y": 130,
+			"width": 36,
+			"height": 40
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/horse_Above_NW_03": {
+		"frame": {
+			"x": 166,
+			"y": 0,
+			"width": 36,
+			"height": 39
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/horse_Above_N_00": {
+		"frame": {
+			"x": 220,
+			"y": 84,
+			"width": 12,
+			"height": 57
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/horse_Above_N_01": {
+		"frame": {
+			"x": 190,
+			"y": 138,
+			"width": 12,
+			"height": 58
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/horse_Above_N_02": {
+		"frame": {
+			"x": 204,
+			"y": 138,
+			"width": 12,
+			"height": 52
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/horse_Above_N_03": {
+		"frame": {
+			"x": 220,
+			"y": 143,
+			"width": 12,
+			"height": 51
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/horse_Above_SE_00": {
+		"frame": {
+			"x": 0,
+			"y": 188,
+			"width": 36,
+			"height": 29
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/horse_Above_SE_01": {
+		"frame": {
+			"x": 140,
+			"y": 98,
+			"width": 36,
+			"height": 38
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/horse_Above_SE_02": {
+		"frame": {
+			"x": 0,
+			"y": 0,
+			"width": 36,
+			"height": 50
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/horse_Above_SE_03": {
+		"frame": {
+			"x": 166,
+			"y": 41,
+			"width": 36,
+			"height": 38
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/horse_Above_SW_00": {
+		"frame": {
+			"x": 204,
+			"y": 0,
+			"width": 36,
+			"height": 29
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/horse_Above_SW_01": {
+		"frame": {
+			"x": 0,
+			"y": 146,
+			"width": 36,
+			"height": 40
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/horse_Above_SW_02": {
+		"frame": {
+			"x": 76,
+			"y": 0,
+			"width": 36,
+			"height": 47
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/horse_Above_SW_03": {
+		"frame": {
+			"x": 178,
+			"y": 98,
+			"width": 36,
+			"height": 35
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/horse_Above_S_00": {
+		"frame": {
+			"x": 156,
+			"y": 167,
+			"width": 14,
+			"height": 43
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/horse_Above_S_01": {
+		"frame": {
+			"x": 220,
+			"y": 31,
+			"width": 14,
+			"height": 51
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/horse_Above_S_02": {
+		"frame": {
+			"x": 204,
+			"y": 31,
+			"width": 14,
+			"height": 62
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/horse_Above_S_03": {
+		"frame": {
+			"x": 140,
+			"y": 167,
+			"width": 14,
+			"height": 49
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/horse_Above_W_00": {
+		"frame": {
+			"x": 114,
+			"y": 62,
+			"width": 48,
+			"height": 30
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/horse_Above_W_01": {
+		"frame": {
+			"x": 90,
+			"y": 172,
+			"width": 48,
+			"height": 27
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/horse_Above_W_02": {
+		"frame": {
+			"x": 90,
+			"y": 98,
+			"width": 48,
+			"height": 30
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/horse_Above_W_03": {
+		"frame": {
+			"x": 140,
+			"y": 138,
+			"width": 48,
+			"height": 27
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	}
+}

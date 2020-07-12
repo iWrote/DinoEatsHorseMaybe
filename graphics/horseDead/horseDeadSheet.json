@@ -1,0 +1,106 @@
+{
+	"./horseDead_Above_E_00": {
+		"frame": {
+			"x": 0,
+			"y": 94,
+			"width": 50,
+			"height": 35
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"./horseDead_Above_E_01": {
+		"frame": {
+			"x": 0,
+			"y": 0,
+			"width": 50,
+			"height": 39
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"./horseDead_Above_N_00": {
+		"frame": {
+			"x": 90,
+			"y": 0,
+			"width": 32,
+			"height": 50
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"./horseDead_Above_N_01": {
+		"frame": {
+			"x": 52,
+			"y": 0,
+			"width": 36,
+			"height": 50
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"./horseDead_Above_S_00": {
+		"frame": {
+			"x": 102,
+			"y": 52,
+			"width": 30,
+			"height": 51
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"./horseDead_Above_S_01": {
+		"frame": {
+			"x": 0,
+			"y": 41,
+			"width": 36,
+			"height": 51
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"./horseDead_Above_W_00": {
+		"frame": {
+			"x": 52,
+			"y": 91,
+			"width": 48,
+			"height": 34
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"./horseDead_Above_W_01": {
+		"frame": {
+			"x": 52,
+			"y": 52,
+			"width": 48,
+			"height": 37
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	}
+}

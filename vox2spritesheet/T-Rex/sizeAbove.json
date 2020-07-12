@@ -1,0 +1,834 @@
+{
+	"sizeAbove/T-Rex_Above_E_00": {
+		"frame": {
+			"x": 114,
+			"y": 136,
+			"width": 36,
+			"height": 36
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_E_01": {
+		"frame": {
+			"x": 174,
+			"y": 40,
+			"width": 38,
+			"height": 34
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_E_02": {
+		"frame": {
+			"x": 182,
+			"y": 89,
+			"width": 36,
+			"height": 34
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_E_03": {
+		"frame": {
+			"x": 192,
+			"y": 0,
+			"width": 36,
+			"height": 35
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_E_04": {
+		"frame": {
+			"x": 34,
+			"y": 166,
+			"width": 36,
+			"height": 36
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_E_05": {
+		"frame": {
+			"x": 34,
+			"y": 89,
+			"width": 38,
+			"height": 36
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_E_06": {
+		"frame": {
+			"x": 34,
+			"y": 127,
+			"width": 36,
+			"height": 37
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_E_07": {
+		"frame": {
+			"x": 106,
+			"y": 89,
+			"width": 36,
+			"height": 37
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_NE_00": {
+		"frame": {
+			"x": 0,
+			"y": 48,
+			"width": 30,
+			"height": 47
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_NE_01": {
+		"frame": {
+			"x": 0,
+			"y": 0,
+			"width": 32,
+			"height": 46
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_NE_02": {
+		"frame": {
+			"x": 0,
+			"y": 144,
+			"width": 28,
+			"height": 45
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_NE_03": {
+		"frame": {
+			"x": 214,
+			"y": 40,
+			"width": 28,
+			"height": 42
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_NE_04": {
+		"frame": {
+			"x": 182,
+			"y": 166,
+			"width": 28,
+			"height": 41
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_NE_05": {
+		"frame": {
+			"x": 106,
+			"y": 220,
+			"width": 28,
+			"height": 41
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_NE_06": {
+		"frame": {
+			"x": 34,
+			"y": 204,
+			"width": 28,
+			"height": 43
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_NE_07": {
+		"frame": {
+			"x": 74,
+			"y": 89,
+			"width": 30,
+			"height": 45
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_NW_00": {
+		"frame": {
+			"x": 220,
+			"y": 89,
+			"width": 28,
+			"height": 41
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_NW_01": {
+		"frame": {
+			"x": 152,
+			"y": 181,
+			"width": 28,
+			"height": 41
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_NW_02": {
+		"frame": {
+			"x": 152,
+			"y": 136,
+			"width": 28,
+			"height": 43
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_NW_03": {
+		"frame": {
+			"x": 0,
+			"y": 97,
+			"width": 30,
+			"height": 45
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_NW_04": {
+		"frame": {
+			"x": 34,
+			"y": 40,
+			"width": 30,
+			"height": 47
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_NW_05": {
+		"frame": {
+			"x": 66,
+			"y": 40,
+			"width": 30,
+			"height": 46
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_NW_06": {
+		"frame": {
+			"x": 74,
+			"y": 173,
+			"width": 28,
+			"height": 45
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_NW_07": {
+		"frame": {
+			"x": 114,
+			"y": 174,
+			"width": 28,
+			"height": 42
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_N_00": {
+		"frame": {
+			"x": 182,
+			"y": 247,
+			"width": 16,
+			"height": 49
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_N_01": {
+		"frame": {
+			"x": 280,
+			"y": 89,
+			"width": 16,
+			"height": 49
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_N_02": {
+		"frame": {
+			"x": 250,
+			"y": 217,
+			"width": 16,
+			"height": 47
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_N_03": {
+		"frame": {
+			"x": 200,
+			"y": 247,
+			"width": 16,
+			"height": 47
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_N_04": {
+		"frame": {
+			"x": 220,
+			"y": 210,
+			"width": 16,
+			"height": 49
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_N_05": {
+		"frame": {
+			"x": 250,
+			"y": 166,
+			"width": 16,
+			"height": 49
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_N_06": {
+		"frame": {
+			"x": 280,
+			"y": 140,
+			"width": 16,
+			"height": 47
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_N_07": {
+		"frame": {
+			"x": 274,
+			"y": 40,
+			"width": 16,
+			"height": 47
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_SE_00": {
+		"frame": {
+			"x": 250,
+			"y": 89,
+			"width": 28,
+			"height": 37
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_SE_01": {
+		"frame": {
+			"x": 152,
+			"y": 224,
+			"width": 28,
+			"height": 37
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_SE_02": {
+		"frame": {
+			"x": 182,
+			"y": 209,
+			"width": 28,
+			"height": 36
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_SE_03": {
+		"frame": {
+			"x": 74,
+			"y": 261,
+			"width": 30,
+			"height": 34
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_SE_04": {
+		"frame": {
+			"x": 74,
+			"y": 220,
+			"width": 30,
+			"height": 39
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_SE_05": {
+		"frame": {
+			"x": 0,
+			"y": 232,
+			"width": 30,
+			"height": 39
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_SE_06": {
+		"frame": {
+			"x": 34,
+			"y": 249,
+			"width": 28,
+			"height": 40
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_SE_07": {
+		"frame": {
+			"x": 220,
+			"y": 132,
+			"width": 28,
+			"height": 38
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_SW_00": {
+		"frame": {
+			"x": 182,
+			"y": 125,
+			"width": 30,
+			"height": 39
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_SW_01": {
+		"frame": {
+			"x": 0,
+			"y": 191,
+			"width": 32,
+			"height": 39
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_SW_02": {
+		"frame": {
+			"x": 244,
+			"y": 40,
+			"width": 28,
+			"height": 40
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_SW_03": {
+		"frame": {
+			"x": 230,
+			"y": 0,
+			"width": 28,
+			"height": 38
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_SW_04": {
+		"frame": {
+			"x": 260,
+			"y": 0,
+			"width": 28,
+			"height": 37
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_SW_05": {
+		"frame": {
+			"x": 220,
+			"y": 172,
+			"width": 28,
+			"height": 36
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_SW_06": {
+		"frame": {
+			"x": 250,
+			"y": 128,
+			"width": 28,
+			"height": 36
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_SW_07": {
+		"frame": {
+			"x": 0,
+			"y": 273,
+			"width": 30,
+			"height": 34
+		},
+		"sourceSize": {
+			"width": 130,
+			"height": 194
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_S_00": {
+		"frame": {
+			"x": 280,
+			"y": 189,
+			"width": 16,
+			"height": 45
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_S_01": {
+		"frame": {
+			"x": 106,
+			"y": 263,
+			"width": 16,
+			"height": 44
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_S_02": {
+		"frame": {
+			"x": 142,
+			"y": 263,
+			"width": 16,
+			"height": 43
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_S_03": {
+		"frame": {
+			"x": 250,
+			"y": 266,
+			"width": 16,
+			"height": 40
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_S_04": {
+		"frame": {
+			"x": 220,
+			"y": 261,
+			"width": 16,
+			"height": 45
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_S_05": {
+		"frame": {
+			"x": 124,
+			"y": 263,
+			"width": 16,
+			"height": 44
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_S_06": {
+		"frame": {
+			"x": 160,
+			"y": 263,
+			"width": 16,
+			"height": 43
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_S_07": {
+		"frame": {
+			"x": 280,
+			"y": 236,
+			"width": 16,
+			"height": 40
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_W_00": {
+		"frame": {
+			"x": 114,
+			"y": 0,
+			"width": 36,
+			"height": 37
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_W_01": {
+		"frame": {
+			"x": 74,
+			"y": 0,
+			"width": 38,
+			"height": 37
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_W_02": {
+		"frame": {
+			"x": 34,
+			"y": 0,
+			"width": 38,
+			"height": 38
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_W_03": {
+		"frame": {
+			"x": 98,
+			"y": 40,
+			"width": 36,
+			"height": 38
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_W_04": {
+		"frame": {
+			"x": 136,
+			"y": 40,
+			"width": 36,
+			"height": 37
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_W_05": {
+		"frame": {
+			"x": 74,
+			"y": 136,
+			"width": 38,
+			"height": 35
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_W_06": {
+		"frame": {
+			"x": 152,
+			"y": 0,
+			"width": 38,
+			"height": 35
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	},
+	"sizeAbove/T-Rex_Above_W_07": {
+		"frame": {
+			"x": 144,
+			"y": 89,
+			"width": 36,
+			"height": 36
+		},
+		"sourceSize": {
+			"width": 98,
+			"height": 162
+		},
+		"rotated": false
+	}
+}

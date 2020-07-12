@@ -1,0 +1,210 @@
+{
+	"./squaddie2_idle_Above_E_00": {
+		"frame": {
+			"x": 100,
+			"y": 0,
+			"width": 30,
+			"height": 32
+		},
+		"sourceSize": {
+			"width": 64,
+			"height": 64
+		},
+		"rotated": false
+	},
+	"./squaddie2_idle_Above_E_01": {
+		"frame": {
+			"x": 164,
+			"y": 0,
+			"width": 28,
+			"height": 33
+		},
+		"sourceSize": {
+			"width": 64,
+			"height": 64
+		},
+		"rotated": false
+	},
+	"./squaddie2_idle_Above_E_02": {
+		"frame": {
+			"x": 100,
+			"y": 0,
+			"width": 30,
+			"height": 32
+		},
+		"sourceSize": {
+			"width": 64,
+			"height": 64
+		},
+		"rotated": false
+	},
+	"./squaddie2_idle_Above_E_03": {
+		"frame": {
+			"x": 36,
+			"y": 0,
+			"width": 30,
+			"height": 33
+		},
+		"sourceSize": {
+			"width": 64,
+			"height": 64
+		},
+		"rotated": false
+	},
+	"./squaddie2_idle_Above_N_00": {
+		"frame": {
+			"x": 164,
+			"y": 35,
+			"width": 34,
+			"height": 25
+		},
+		"sourceSize": {
+			"width": 64,
+			"height": 64
+		},
+		"rotated": false
+	},
+	"./squaddie2_idle_Above_N_01": {
+		"frame": {
+			"x": 36,
+			"y": 35,
+			"width": 34,
+			"height": 26
+		},
+		"sourceSize": {
+			"width": 64,
+			"height": 64
+		},
+		"rotated": false
+	},
+	"./squaddie2_idle_Above_N_02": {
+		"frame": {
+			"x": 164,
+			"y": 35,
+			"width": 34,
+			"height": 25
+		},
+		"sourceSize": {
+			"width": 64,
+			"height": 64
+		},
+		"rotated": false
+	},
+	"./squaddie2_idle_Above_N_03": {
+		"frame": {
+			"x": 200,
+			"y": 35,
+			"width": 34,
+			"height": 25
+		},
+		"sourceSize": {
+			"width": 64,
+			"height": 64
+		},
+		"rotated": false
+	},
+	"./squaddie2_idle_Above_S_00": {
+		"frame": {
+			"x": 0,
+			"y": 0,
+			"width": 34,
+			"height": 30
+		},
+		"sourceSize": {
+			"width": 64,
+			"height": 64
+		},
+		"rotated": false
+	},
+	"./squaddie2_idle_Above_S_01": {
+		"frame": {
+			"x": 100,
+			"y": 34,
+			"width": 34,
+			"height": 28
+		},
+		"sourceSize": {
+			"width": 64,
+			"height": 64
+		},
+		"rotated": false
+	},
+	"./squaddie2_idle_Above_S_02": {
+		"frame": {
+			"x": 0,
+			"y": 0,
+			"width": 34,
+			"height": 30
+		},
+		"sourceSize": {
+			"width": 64,
+			"height": 64
+		},
+		"rotated": false
+	},
+	"./squaddie2_idle_Above_S_03": {
+		"frame": {
+			"x": 0,
+			"y": 32,
+			"width": 34,
+			"height": 30
+		},
+		"sourceSize": {
+			"width": 64,
+			"height": 64
+		},
+		"rotated": false
+	},
+	"./squaddie2_idle_Above_W_00": {
+		"frame": {
+			"x": 132,
+			"y": 0,
+			"width": 30,
+			"height": 32
+		},
+		"sourceSize": {
+			"width": 64,
+			"height": 64
+		},
+		"rotated": false
+	},
+	"./squaddie2_idle_Above_W_01": {
+		"frame": {
+			"x": 194,
+			"y": 0,
+			"width": 28,
+			"height": 33
+		},
+		"sourceSize": {
+			"width": 64,
+			"height": 64
+		},
+		"rotated": false
+	},
+	"./squaddie2_idle_Above_W_02": {
+		"frame": {
+			"x": 132,
+			"y": 0,
+			"width": 30,
+			"height": 32
+		},
+		"sourceSize": {
+			"width": 64,
+			"height": 64
+		},
+		"rotated": false
+	},
+	"./squaddie2_idle_Above_W_03": {
+		"frame": {
+			"x": 68,
+			"y": 0,
+			"width": 30,
+			"height": 33
+		},
+		"sourceSize": {
+			"width": 64,
+			"height": 64
+		},
+		"rotated": false
+	}
+}
