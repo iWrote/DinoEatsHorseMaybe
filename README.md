@@ -12,4 +12,4 @@ Unfortunately I wasn't comfortable enough with ECS and had to then awkwardly int
 
 Here's a link to the game jam submission: https://varuns.itch.io/dinoeatshorsemaybe
 
-Also see [Chris's game](https://christophergreeley.itch.io/strategy-goo)! It shares the same animation system (refactored beyond my comprehension :P) and some assets I made. Working with him made me realise I've soo much to learn.
+Also see [Chris's game](https://christophergreeley.itch.io/strategy-goo)! It shares the same animation system (refactored beyond my comprehension :P) and some assets I made. Working with him made me realise I have soo much to learn!
